@@ -1,0 +1,11 @@
+pyautogen
+python-docx
+PyPDF2
+werkzeug 
+flask 
+flask-cors 
+fastapi
+requests
+Werkzeug
+beautifulsoup4
+python-multipart 
